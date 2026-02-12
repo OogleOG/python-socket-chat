@@ -5,6 +5,10 @@ A **Discord-like desktop chat application** built with Python. Features a modern
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
+<img width="896" height="623" alt="image" src="https://github.com/user-attachments/assets/366c11c9-393e-4f15-9566-19f8600f8c65" />
+
+
+
 ## Features
 
 - **Discord-inspired UI** — Dark theme with channel sidebar, message area, and online user list
