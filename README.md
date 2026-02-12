@@ -7,6 +7,7 @@ A **Discord-like desktop chat application** built with Python. Features a modern
 
 <img width="896" height="623" alt="image" src="https://github.com/user-attachments/assets/366c11c9-393e-4f15-9566-19f8600f8c65" />
 
+<img width="894" height="629" alt="image" src="https://github.com/user-attachments/assets/a3f1da0d-1241-4d24-b46b-0100aed7c056" />
 
 
 ## Features
